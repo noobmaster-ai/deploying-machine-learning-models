@@ -1,0 +1,1 @@
+print('Hello World. This is my first code on my new Dell XPS 9500 on VS Code !')
